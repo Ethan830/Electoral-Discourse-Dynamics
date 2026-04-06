@@ -1,0 +1,10 @@
+pandas>=2.0.0
+numpy>=1.24.0
+nltk>=3.8.0
+vaderSentiment>=3.3.2
+textblob>=0.17.1
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.11.0
+# Optional (requires API credentials): praw>=7.7.0
